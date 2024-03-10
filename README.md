@@ -38,3 +38,15 @@ CodeHelper is a tool that generates code snippets based on natural language prom
    ```
 
 Now you are ready to use CodeHelper to generate code snippets based on your prompts.
+
+## Benefits of Locally Running LLM
+
+1. **Increased Privacy**: Run the Language Model locally to keep your data and prompts on your machine, ensuring enhanced privacy and security.
+  
+2. **Faster Response Times**: With a locally hosted model, enjoy quicker code snippet generation without relying on external servers.
+
+3. **Offline Availability**: Use CodeHelper without an internet connection, ideal for offline development environments.
+
+4. **Customization**: Fine-tune the model locally to better suit your specific coding needs and preferences.
+
+5. **Reduced Dependency on External Services**: Depend less on external services by running the Language Model locally, ensuring consistent functionality even during server downtime.
